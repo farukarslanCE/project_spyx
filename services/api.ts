@@ -18,6 +18,7 @@ interface UniversesResponse {
 
 // For development/testing, you can use this mock data
 const MOCK_DATA: UniversesResponse = {
+  //We can create a server to get the data from the server
   "universes": [
     {
       "name": "Games",
